@@ -100,4 +100,4 @@ for h in startlocs:
 
     print(pathmap[endloc])
 
-print(sorteresultslocs))
+print(sorted(resultslocs))
